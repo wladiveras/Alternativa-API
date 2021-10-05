@@ -9,7 +9,7 @@ define('LARAVEL_START', microtime(true));
 |--------------------------------------------------------------------------
 | Check If Application Is Under Maintenance
 |--------------------------------------------------------------------------
-|
+| vou mudar algo
 | If the application is maintenance / demo mode via the "down" command we
 | will require this file so that any prerendered template can be shown
 | instead of starting the framework, which could cause an exception.
